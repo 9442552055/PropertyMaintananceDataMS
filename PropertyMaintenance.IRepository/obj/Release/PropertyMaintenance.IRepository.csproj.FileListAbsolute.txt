@@ -1,0 +1,12 @@
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\PropertyMaintenance.IRepository.dll.config
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\PropertyMaintenance.IRepository.dll
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\PropertyMaintenance.IRepository.pdb
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\EntityFramework.dll
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\PropertyMaintenance.Data.dll
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\PropertyMaintenance.Data.pdb
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\EntityFramework.xml
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\obj\Release\PropertyMaintenance.IRepository.csprojResolveAssemblyReference.cache
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\obj\Release\PropertyMaintenance.IRepository.dll
+C:\Users\Mozhi\Documents\Visual Studio 2012\Projects\WebSite1\PropertyMaintenance.IRepository\obj\Release\PropertyMaintenance.IRepository.pdb
